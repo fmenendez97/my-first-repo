@@ -14,3 +14,10 @@ def func(a, b):
 
 input ("how are you?")
 
+#%%%
+
+def fun (e, f):
+    return e + f
+
+#%%
+
